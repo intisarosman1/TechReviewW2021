@@ -1,2 +1,2 @@
-# TechReviewW2021
+# PythonClub
 Sample Django project for IT112
